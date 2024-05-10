@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "user": "roberio@gmail.com",
+      "password": "123456",
+      "nivel": "administrador"
+    },
+    {
+      "id": "2",
+      "user": "maria@gmail.com",
+      "password": "senha123",
+      "nivel": "usuário"
+    },
+    {
+      "id": "3",
+      "user": "joao@gmail.com",
+      "password": "abcdef",
+      "nivel": "usuário"
+    },
+    {
+      "id": "4",
+      "user": "carla@gmail.com",
+      "password": "987654",
+      "nivel": "usuário"
+    },
+    {
+      "id": "5",
+      "user": "pedro@gmail.com",
+      "password": "qwerty",
+      "nivel": "usuário"
+    },
+    {
+      "id": "e9a5"
+    },
+    {
+      "id": "30c1",
+      "user": "lillian@gmail.com",
+      "password": "123456",
+      "nivel": "usuário"
+    },
+    {
+      "id": "672d",
+      "user": "vivian@gmail.com",
+      "password": "123456",
+      "nivel": "usuário"
+    },
+    {
+      "id": "4ec7",
+      "user": "maria@gmail.com",
+      "password": "123456",
+      "nivel": "usuário"
+    }
+  ]
+}
